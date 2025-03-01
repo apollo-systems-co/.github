@@ -1,4 +1,4 @@
-# 🚀 Apolo Systems Co.  
+# 🚀 Apolo Global Systems.  
 
 **"We believe that space is not the limit but the beginning of a universe full of possibilities."** 🌌✨  
 
@@ -21,7 +21,7 @@ We design services that not only meet but **exceed expectations**. Our offerings
 - 🔄 **System Modernization:** Transforming **outdated systems** into modern and efficient solutions.  
 - 🛠️ **Support & Maintenance:** Providing ongoing **support** to ensure your systems run smoothly.  
 
-For a **comprehensive list of our services**, please visit our [Services Page](https://apolosystemsco.com/en/services).  
+For a **comprehensive list of our services**, please visit our [Services Page](https://apologs.com/en/services).  
 
 ---
 
@@ -30,7 +30,7 @@ For a **comprehensive list of our services**, please visit our [Services Page](h
 We'd love to hear from you! 🎯 Reach out to us through the following channels:  
 
 📱 **Phone:** +57 (314)-278-9233 | +57 (312)-600-6315  
-📧 **Email:** [commercial@apolosystemsco.com](mailto:commercial@apolosystemsco.com)  
+📧 **Email:** [commercial@apolosystemsco.com](mailto:commercial@apologs.com)  
 
 🌍 **Follow us on social media:**  
 
@@ -44,4 +44,4 @@ We'd love to hear from you! 🎯 Reach out to us through the following channels:
 
 ---
 
-*This README is based on information from our [official website](https://apolosystemsco.com/en/). For the most up-to-date details, please visit our site.*  
+*This README is based on information from our [official website](https://apologs.com/en/). For the most up-to-date details, please visit our site.*  
